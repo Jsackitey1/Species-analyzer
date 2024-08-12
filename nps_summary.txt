@@ -1,0 +1,118 @@
+Park with Most Species by area of 10000 acres:	Hot Springs National Park
+Number of Species per Area in Hot Springs National Park:	3513.51
+
+Parks and their corresponding common species
+Acadia National Park:	 Vespertilionidae
+Arches National Park:	 Vespertilionidae
+Badlands National Park:	 Vespertilionidae
+Big Bend National Park:	 Cricetidae
+Biscayne National Park:	 Sciuridae
+Black Canyon of the Gunnison National Park:	 Vespertilionidae
+Bryce Canyon National Park:	 Vespertilionidae
+Canyonlands National Park:	 Vespertilionidae
+Capitol Reef National Park:	 Vespertilionidae
+Carlsbad Caverns National Park:	 Cricetidae
+Channel Islands National Park:	 Vespertilionidae
+Congaree National Park:	 Cricetidae
+Crater Lake National Park:	 Sciuridae
+Cuyahoga Valley National Park:	 Vespertilionidae
+Denali National Park and Preserve:	 Cricetidae
+Death Valley National Park:	 Heteromyidae
+Dry Tortugas National Park:	 Delphinidae
+Everglades National Park:	 Vespertilionidae
+Gates Of The Arctic National Park and Preserve:	 Cricetidae
+Glacier National Park:	 Sciuridae
+Glacier Bay National Park and Preserve:	 Mustelidae
+Great Basin National Park:	 Vespertilionidae
+Grand Canyon National Park:	 Vespertilionidae
+Great Sand Dunes National Park and Preserve:	 Cricetidae
+Great Smoky Mountains National Park:	 Cricetidae
+Grand Teton National Park:	 Sciuridae
+Guadalupe Mountains National Park:	 Cricetidae
+Haleakala National Park:	 Muridae
+Hawaii Volcanoes National Park:	 Bovidae
+Hot Springs National Park:	 Cricetidae
+Isle Royale National Park:	 Vespertilionidae
+Joshua Tree National Park:	 Cricetidae
+Katmai National Park and Preserve:	 Mustelidae
+Kenai Fjords National Park:	 Cricetidae
+Kobuk Valley National Park:	 Cricetidae
+Lake Clark National Park and Preserve:	 Cricetidae
+Lassen Volcanic National Park:	 Sciuridae
+Mammoth Cave National Park:	 Vespertilionidae
+Mesa Verde National Park:	 Vespertilionidae
+Mount Rainier National Park:	 Cricetidae
+North Cascades National Park:	 Vespertilionidae
+Olympic National Park:	 Vespertilionidae
+Petrified Forest National Park:	 Vespertilionidae
+Pinnacles National Park:	 Vespertilionidae
+Redwood National Park:	 Cricetidae
+Rocky Mountain National Park:	 Cricetidae
+Saguaro National Park:	 Vespertilionidae
+Sequoia and Kings Canyon National Parks:	 Vespertilionidae
+Shenandoah National Park:	 Cricetidae
+Theodore Roosevelt National Park:	 Cricetidae
+Voyageurs National Park:	 Cricetidae
+Wind Cave National Park:	 Cricetidae
+Wrangell - St Elias National Park and Preserve:	 Cricetidae
+Yellowstone National Park:	 Vespertilionidae
+Yosemite National Park:	 Vespertilionidae
+Zion National Park:	 Vespertilionidae
+
+Number of endangered species by category in each park
+ACAD: 	{'Endangered': 3, 'Species of Concern': 65, 'Threatened': 1, 'Proposed Endangered': 0, 'Under Review': 4, 'In Recovery': 2}
+ARCH: 	{'Endangered': 2, 'Species of Concern': 69, 'Threatened': 2, 'Proposed Endangered': 0, 'Under Review': 1, 'In Recovery': 1}
+BADL: 	{'Endangered': 2, 'Species of Concern': 62, 'Threatened': 1, 'Proposed Endangered': 0, 'Under Review': 3, 'In Recovery': 1}
+BIBE: 	{'Endangered': 11, 'Species of Concern': 116, 'Threatened': 5, 'Proposed Endangered': 0, 'Under Review': 4, 'In Recovery': 2}
+BISC: 	{'Endangered': 13, 'Species of Concern': 40, 'Threatened': 8, 'Proposed Endangered': 0, 'Under Review': 1, 'In Recovery': 2}
+BLCA: 	{'Endangered': 2, 'Species of Concern': 61, 'Threatened': 1, 'Proposed Endangered': 0, 'Under Review': 1, 'In Recovery': 1}
+BRCA: 	{'Endangered': 2, 'Species of Concern': 69, 'Threatened': 1, 'Proposed Endangered': 0, 'Under Review': 0, 'In Recovery': 1}
+CANY: 	{'Endangered': 7, 'Species of Concern': 69, 'Threatened': 3, 'Proposed Endangered': 0, 'Under Review': 0, 'In Recovery': 1}
+CARE: 	{'Endangered': 6, 'Species of Concern': 80, 'Threatened': 5, 'Proposed Endangered': 0, 'Under Review': 0, 'In Recovery': 2}
+CAVE: 	{'Endangered': 4, 'Species of Concern': 94, 'Threatened': 2, 'Proposed Endangered': 0, 'Under Review': 2, 'In Recovery': 1}
+CHIS: 	{'Endangered': 24, 'Species of Concern': 104, 'Threatened': 8, 'Proposed Endangered': 0, 'Under Review': 3, 'In Recovery': 5}
+CONG: 	{'Endangered': 4, 'Species of Concern': 37, 'Threatened': 1, 'Proposed Endangered': 0, 'Under Review': 6, 'In Recovery': 1}
+CRLA: 	{'Endangered': 4, 'Species of Concern': 66, 'Threatened': 5, 'Proposed Endangered': 0, 'Under Review': 4, 'In Recovery': 3}
+CUVA: 	{'Endangered': 1, 'Species of Concern': 52, 'Threatened': 1, 'Proposed Endangered': 0, 'Under Review': 5, 'In Recovery': 1}
+DENA: 	{'Endangered': 0, 'Species of Concern': 30, 'Threatened': 1, 'Proposed Endangered': 0, 'Under Review': 1, 'In Recovery': 0}
+DEVA: 	{'Endangered': 24, 'Species of Concern': 177, 'Threatened': 16, 'Proposed Endangered': 1, 'Under Review': 27, 'In Recovery': 2}
+DRTO: 	{'Endangered': 5, 'Species of Concern': 46, 'Threatened': 6, 'Proposed Endangered': 0, 'Under Review': 2, 'In Recovery': 1}
+EVER: 	{'Endangered': 16, 'Species of Concern': 73, 'Threatened': 6, 'Proposed Endangered': 2, 'Under Review': 12, 'In Recovery': 2}
+GAAR: 	{'Endangered': 0, 'Species of Concern': 21, 'Threatened': 0, 'Proposed Endangered': 0, 'Under Review': 0, 'In Recovery': 0}
+GLAC: 	{'Endangered': 0, 'Species of Concern': 75, 'Threatened': 2, 'Proposed Endangered': 0, 'Under Review': 4, 'In Recovery': 2}
+GLBA: 	{'Endangered': 9, 'Species of Concern': 47, 'Threatened': 3, 'Proposed Endangered': 0, 'Under Review': 1, 'In Recovery': 1}
+GRBA: 	{'Endangered': 2, 'Species of Concern': 89, 'Threatened': 5, 'Proposed Endangered': 0, 'Under Review': 3, 'In Recovery': 1}
+GRCA: 	{'Endangered': 11, 'Species of Concern': 114, 'Threatened': 4, 'Proposed Endangered': 0, 'Under Review': 3, 'In Recovery': 3}
+GRSA: 	{'Endangered': 0, 'Species of Concern': 59, 'Threatened': 0, 'Proposed Endangered': 0, 'Under Review': 0, 'In Recovery': 1}
+GRSM: 	{'Endangered': 13, 'Species of Concern': 104, 'Threatened': 6, 'Proposed Endangered': 0, 'Under Review': 17, 'In Recovery': 1}
+GRTE: 	{'Endangered': 3, 'Species of Concern': 77, 'Threatened': 1, 'Proposed Endangered': 0, 'Under Review': 3, 'In Recovery': 2}
+GUMO: 	{'Endangered': 2, 'Species of Concern': 83, 'Threatened': 2, 'Proposed Endangered': 0, 'Under Review': 2, 'In Recovery': 1}
+HALE: 	{'Endangered': 40, 'Species of Concern': 38, 'Threatened': 3, 'Proposed Endangered': 11, 'Under Review': 0, 'In Recovery': 0}
+HAVO: 	{'Endangered': 44, 'Species of Concern': 65, 'Threatened': 5, 'Proposed Endangered': 10, 'Under Review': 1, 'In Recovery': 0}
+HOSP: 	{'Endangered': 4, 'Species of Concern': 61, 'Threatened': 2, 'Proposed Endangered': 0, 'Under Review': 5, 'In Recovery': 1}
+ISRO: 	{'Endangered': 2, 'Species of Concern': 58, 'Threatened': 2, 'Proposed Endangered': 0, 'Under Review': 2, 'In Recovery': 1}
+JOTR: 	{'Endangered': 6, 'Species of Concern': 97, 'Threatened': 3, 'Proposed Endangered': 0, 'Under Review': 1, 'In Recovery': 2}
+KATM: 	{'Endangered': 6, 'Species of Concern': 31, 'Threatened': 2, 'Proposed Endangered': 0, 'Under Review': 2, 'In Recovery': 0}
+KEFJ: 	{'Endangered': 8, 'Species of Concern': 36, 'Threatened': 2, 'Proposed Endangered': 0, 'Under Review': 2, 'In Recovery': 0}
+KOVA: 	{'Endangered': 0, 'Species of Concern': 22, 'Threatened': 1, 'Proposed Endangered': 0, 'Under Review': 0, 'In Recovery': 0}
+LACL: 	{'Endangered': 3, 'Species of Concern': 36, 'Threatened': 2, 'Proposed Endangered': 0, 'Under Review': 1, 'In Recovery': 0}
+LAVO: 	{'Endangered': 6, 'Species of Concern': 72, 'Threatened': 3, 'Proposed Endangered': 0, 'Under Review': 6, 'In Recovery': 2}
+MACA: 	{'Endangered': 13, 'Species of Concern': 53, 'Threatened': 1, 'Proposed Endangered': 0, 'Under Review': 12, 'In Recovery': 2}
+MEVE: 	{'Endangered': 6, 'Species of Concern': 78, 'Threatened': 4, 'Proposed Endangered': 0, 'Under Review': 1, 'In Recovery': 1}
+MORA: 	{'Endangered': 1, 'Species of Concern': 47, 'Threatened': 6, 'Proposed Endangered': 0, 'Under Review': 5, 'In Recovery': 0}
+NOCA: 	{'Endangered': 3, 'Species of Concern': 67, 'Threatened': 6, 'Proposed Endangered': 0, 'Under Review': 3, 'In Recovery': 1}
+OLYM: 	{'Endangered': 2, 'Species of Concern': 70, 'Threatened': 8, 'Proposed Endangered': 0, 'Under Review': 5, 'In Recovery': 3}
+PEFO: 	{'Endangered': 4, 'Species of Concern': 74, 'Threatened': 1, 'Proposed Endangered': 0, 'Under Review': 0, 'In Recovery': 2}
+PINN: 	{'Endangered': 2, 'Species of Concern': 72, 'Threatened': 0, 'Proposed Endangered': 0, 'Under Review': 2, 'In Recovery': 1}
+REDW: 	{'Endangered': 21, 'Species of Concern': 124, 'Threatened': 11, 'Proposed Endangered': 0, 'Under Review': 6, 'In Recovery': 7}
+ROMO: 	{'Endangered': 2, 'Species of Concern': 65, 'Threatened': 2, 'Proposed Endangered': 0, 'Under Review': 3, 'In Recovery': 1}
+SAGU: 	{'Endangered': 1, 'Species of Concern': 91, 'Threatened': 2, 'Proposed Endangered': 0, 'Under Review': 1, 'In Recovery': 0}
+SEKI: 	{'Endangered': 4, 'Species of Concern': 77, 'Threatened': 1, 'Proposed Endangered': 0, 'Under Review': 5, 'In Recovery': 1}
+SHEN: 	{'Endangered': 4, 'Species of Concern': 74, 'Threatened': 6, 'Proposed Endangered': 0, 'Under Review': 7, 'In Recovery': 1}
+THRO: 	{'Endangered': 3, 'Species of Concern': 49, 'Threatened': 1, 'Proposed Endangered': 0, 'Under Review': 1, 'In Recovery': 1}
+VOYA: 	{'Endangered': 1, 'Species of Concern': 52, 'Threatened': 2, 'Proposed Endangered': 0, 'Under Review': 2, 'In Recovery': 1}
+WICA: 	{'Endangered': 3, 'Species of Concern': 63, 'Threatened': 1, 'Proposed Endangered': 0, 'Under Review': 2, 'In Recovery': 1}
+WRST: 	{'Endangered': 5, 'Species of Concern': 40, 'Threatened': 3, 'Proposed Endangered': 0, 'Under Review': 2, 'In Recovery': 1}
+YELL: 	{'Endangered': 2, 'Species of Concern': 84, 'Threatened': 2, 'Proposed Endangered': 0, 'Under Review': 3, 'In Recovery': 3}
+YOSE: 	{'Endangered': 4, 'Species of Concern': 81, 'Threatened': 5, 'Proposed Endangered': 0, 'Under Review': 4, 'In Recovery': 2}
+ZION: 	{'Endangered': 5, 'Species of Concern': 89, 'Threatened': 3, 'Proposed Endangered': 0, 'Under Review': 1, 'In Recovery': 1}

@@ -35,7 +35,7 @@ This project focuses on analyzing species data from the U.S. National Park Servi
 ### Getting Started:
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/you/nps-species-analysis.git
+   git clone https://github.com/you/nps-species-analysis.git](https://github.com/Jsackitey1/Species-analyzer.git
    ```
 2. **Run the Analysis:**
    ```bash
